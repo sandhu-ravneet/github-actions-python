@@ -3,7 +3,7 @@ def calculate_total(price, quantity):
 
 
 price = 25
-quantity = 4
+quantity = 5
 total = calculate_total(price, quantity)
 
 print(f"Price: ${price}")
